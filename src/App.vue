@@ -1,5 +1,5 @@
 <template>
-  <h1>Hello Vue 3 + TypeScript + Webpack123</h1>
+  <h1>Hello Vue 3 + TypeScript + Webpack123 <span>yep</span></h1>
 </template>
 
 <script lang="ts">
