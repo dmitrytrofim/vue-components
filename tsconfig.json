@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
-    "target": "ESNext",
-    "module": "ESNext",
-    "moduleResolution": "Node",
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
@@ -13,5 +13,5 @@
       "@/*": ["src/*"]
     }
   },
-  "include": ["src", "tests"]
+  "include": ["src/**/*.ts", "src/**/*.vue", "tests"]
 }

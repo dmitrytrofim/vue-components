@@ -1,3 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`increments count on click 1`] = `"<button>2</button>"`;
